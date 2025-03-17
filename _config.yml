@@ -28,11 +28,6 @@ url: "https://jonasregehr.github.io"
 theme: minima
 plugins:
   - jekyll-feed
-minima:
-nav_pages:
-  - home.md
-  - cv.md
-  - contact.md
 
 # Exclude from processing.
 # The following items will not be processed, by default.
