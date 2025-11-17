@@ -12,6 +12,6 @@ I am Jonas Regehr, an undergraduate student at the University of Utah. I work as
 [Download my resume](/assets/files/resume.pdf)
 
 # Contact
-- [regehrjs@gmail.com](mailto:joscre04s@gmail.com)
+- [joscre04@gmail.com](mailto:joscre04@gmail.com)
 - [Github](https://github.com/JonasRegehr)
 - [LinkedIn](https://www.linkedin.com/in/jonasregehr/)
